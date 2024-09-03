@@ -1,0 +1,10 @@
+body {
+    height: 100vh; /* altura total do dispositivo */
+   
+     /* background: linear-gradient(green, yeollow, red) */
+    
+    background-image: url(leão-pequeno.webp);
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
